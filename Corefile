@@ -1,0 +1,6 @@
+. {
+	thebug
+	auto {
+		directory ./empty
+	}
+}
